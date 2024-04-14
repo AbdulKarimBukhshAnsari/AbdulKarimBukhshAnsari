@@ -21,8 +21,8 @@
 <a href="https://www.facebook.com/kareem.ansari.3939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul karim bukhsh ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul karim bukhsh ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul karim bukhsh ansari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfbCwQl7KkH9urwltoTa7XA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hidden mystery" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdul karim buhksh ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul karim buhksh ansari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdul karim buhksh ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul karim buhksh ansari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hiddenmystery621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul karim buhksh ansari" height="30" width="40" /></a>
+<a href="https://leetcode.com/Abdul_Karim_Bukhsh_Ansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul karim buhksh ansari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
