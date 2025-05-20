@@ -14,7 +14,7 @@
 ## 🏆 Achievements:
 - 🏅 **Winner of 2025 SMEC Web Hackathon**  
 - 🎯 **94 / 100 Marks in NED UET Entry Test** – Ranked **8th in Karachi Merit List**  
-- 💡 **Solved 130+ LeetCode Problems** 
+- 💡 **Solved 180+ LeetCode Problems** 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbdulKarimBukhshAnsari&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKarimBukhshAnsari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
