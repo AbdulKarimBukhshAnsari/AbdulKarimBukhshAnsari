@@ -1,5 +1,5 @@
 # 💫 About Me:
-**👨‍💻 Hi, I'm  Abdul Karim Bukhsh Ansari, a Software Engineer from Karachi, Pakistan.** <br> **🚀 I specialize in MERN Stack & React Native development, building scalable web and mobile applications.** <br> **🎮 I have also worked with Unity, exploring game development and interactive experiences.** <br> **🏆 A passionate developer who has won multiple competitions and participated in hackathons.** <br> **🤖 Enthusiastic about Artificial Intelligence, always eager to learn and explore cutting-edge technologies.** <br> **💼 Currently Working as an Associate Software Engineer** <br> 
+**👨‍💻 Hi, I'm  Abdul Karim Bukhsh Ansari, a Software Engineer from Karachi, Pakistan.** <br> **🚀 I specialize in MERN Stack & React Native development, building scalable web and mobile applications.** <br> **🎮 I have also worked with Unity, exploring game development and interactive experiences.** <br> **🏆 A passionate developer who has won multiple competitions and participated in hackathons.** <br> **🤖 Enthusiastic about Artificial Intelligence, always eager to learn and explore cutting-edge technologies.** <br> **💼 Currently Working as an Associate Software Engineer in ByteCorp Technologies** <br> 
 
 
 ## 🌐 Socials:
