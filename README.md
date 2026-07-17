@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Abdul%20Karim%20Bukhsh%20Ansari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20%26%20React%20Native%20Developer&descSize=18&descAlignY=55" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+Native+Mobile+Developer;Hackathon+Winner+%F0%9F%8F%86;AI+Enthusiast;Always+Building%2C+Always+Learning&font=Fira+Code&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/AbdulKarimBukhshAnsari)
 
@@ -100,6 +100,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
