@@ -1,28 +1,105 @@
-# 💫 About Me:
-**👨‍💻 Hi, I'm  Abdul Karim Bukhsh Ansari, a Software Engineer from Karachi, Pakistan.** <br> **🚀 I specialize in MERN Stack & React Native development, building scalable web and mobile applications.** <br> **🎮 I have also worked with Unity, exploring game development and interactive experiences.** <br> **🏆 A passionate developer who has won multiple competitions and participated in hackathons.** <br> **🤖 Enthusiastic about Artificial Intelligence, always eager to learn and explore cutting-edge technologies.** <br> **💼 Currently Working as an Associate Software Engineer in ByteCorp Technologies** <br> 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Abdul%20Karim%20Bukhsh%20Ansari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20MERN%20%26%20React%20Native%20Developer&descSize=18&descAlignY=55" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kareem.ansari.3939) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kareem.ansari.3939) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-karim-bukhsh-ansari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiddenmystery621@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+Native+Mobile+Developer;Hackathon+Winner+%F0%9F%8F%86;AI+Enthusiast;Always+Building%2C+Always+Learning&font=Fira+Code&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/AbdulKarimBukhshAnsari)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=AbdulKarimBukhshAnsari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 
+</div>
 
-## 🏆 Achievements:
-- 🏅 **Winner of 2025 SMEC Web Hackathon**  
-- 🎯 **94 / 100 Marks in NED UET Entry Test** – Ranked **8th in Karachi Merit List**  
-- 💡 **Solved 180+ LeetCode Problems** 
+## 👨‍💻 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdulKarimBukhshAnsari&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulKarimBukhshAnsari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="developer workspace gif" />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbdulKarimBukhshAnsari&theme=dark&hide_border=false"/>
-</p>
+- 🚀 **Associate Software Engineer** @ **ByteCorp Technologies**
+- 🎓 Software Engineering **'27** — **NED University of Engineering & Technology**, Karachi 🇵🇰
+- 💻 I specialize in **MERN Stack** & **React Native**, building scalable web and mobile applications
+- 🎮 Explored **game development** and interactive experiences with **Unity**
+- 🤖 Passionate about **Artificial Intelligence** — always learning cutting-edge tech
+- 🏆 Multiple-time **competition winner** and hackathon enthusiast
+- ⚡ Fun fact: I believe consistency beats intensity — every single day counts!
 
+<br clear="right" />
 
+## 🌐 Connect With Me
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-karim-bukhsh-ansari)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kareem.ansari.3939)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kareem.ansari.3939)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiddenmystery621@gmail.com)
 
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,materialui,vite&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,appwrite&theme=dark)](https://skillicons.dev)
+
+### 📱 Mobile, Languages & Tools
+[![Tools](https://skillicons.dev/icons?i=python,cs,cpp,dotnet,unity,git,github,figma,postman,vscode&theme=dark)](https://skillicons.dev)
+
+*…and React Native for cross-platform mobile apps* 📲
+
+</div>
+
+## 🏆 Achievements
+
+- 🥇 **Winner — SMEC Web Hackathon 2025**
+- 🎯 **94/100** in NED UET Entry Test — ranked **8th** on the Karachi Merit List
+- 💡 **180+ LeetCode problems** solved and counting
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🕌 [Deen Daily](https://github.com/AbdulKarimBukhshAnsari/Deen_Daily)
+
+*DeenDaily helps you stay on track with your daily Ibadah — Salah, Quran, Dhikr, and Sadaqah.*
+*Get rewarded with badges and stay motivated through simple goals. Need a boost? Click **"Inspire Me"** for a Random Act of Jannah 🌟*
+
+[![Deen Daily](https://img.shields.io/badge/⭐_Check_it_out-Deen_Daily-1a1b27?style=for-the-badge&logo=github&logoColor=70A5FD)](https://github.com/AbdulKarimBukhshAnsari/Deen_Daily)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=AbdulKarimBukhshAnsari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulKarimBukhshAnsari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=AbdulKarimBukhshAnsari&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulKarimBukhshAnsari&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulKarimBukhshAnsari/AbdulKarimBukhshAnsari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulKarimBukhshAnsari/AbdulKarimBukhshAnsari/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AbdulKarimBukhshAnsari/AbdulKarimBukhshAnsari/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
