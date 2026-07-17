@@ -73,19 +73,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=AbdulKarimBukhshAnsari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulKarimBukhshAnsari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=AbdulKarimBukhshAnsari&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulKarimBukhshAnsari&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
