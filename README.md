@@ -14,8 +14,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="developer workspace gif" />
-
 - 🚀 **Associate Software Engineer** @ **ByteCorp Technologies**
 - 🎓 Software Engineering **'27** — **NED University of Engineering & Technology**, Karachi 🇵🇰
 - 💻 I specialize in **MERN Stack** & **React Native**, building scalable web and mobile applications
