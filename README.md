@@ -1,11 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/dev/text" alt="Banner" style="width:100%;">
-  </a>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+MERN+Developer;React+Native+Mobile+Developer;Hackathon+Winner+%F0%9F%8F%86;AI+Enthusiast;Always+Building%2C+Always+Learning&font=Fira+Code&color=70A5FD&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/AbdulKarimBukhshAnsari)
 
 <img src="https://komarev.com/ghpvc/?username=AbdulKarimBukhshAnsari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
