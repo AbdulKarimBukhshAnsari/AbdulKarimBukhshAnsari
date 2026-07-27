@@ -9,12 +9,12 @@
 ## 👨‍💻 About Me
 
 - 🚀 **Associate Software Engineer** @ **ByteCorp Technologies**
-- 🎓 Software Engineering **'27** — **NED University of Engineering & Technology**, Karachi 🇵🇰
+- 🎓 Software Engineering **'27**  **NED University of Engineering & Technology**, Karachi 🇵🇰
 - 💻 I specialize in **MERN Stack** & **React Native**, building scalable web and mobile applications
 - 🎮 Explored **game development** and interactive experiences with **Unity**
-- 🤖 Passionate about **Artificial Intelligence** — always learning cutting-edge tech
+- 🤖 Passionate about **Artificial Intelligence**  always learning cutting-edge tech
 - 🏆 Multiple-time **competition winner** and hackathon enthusiast
-- ⚡ Fun fact: I believe consistency beats intensity — every single day counts!
+- ⚡ Fun fact: I believe consistency beats intensity  every single day counts!
 
 <br clear="right" />
 
